@@ -9,6 +9,7 @@
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
+* [Contributors](#contributors)
 
 
 ## General info
@@ -44,3 +45,14 @@ Project is: _in progress_, _finished_, _no longer continue_ and why?
 
 ## Inspiration
 Add here credits. Project inspired by..., based on...
+
+## Contributors
+
+Thanks to the following people who have contributed to this project:
+
+* [@FilipAngelov](https://github.com/FilipAngelov) 
+* [@jolakoskip](https://github.com/jolakoskip) 
+* [@gardnerska](https://github.com/gardnerska) 
+* [@srnag](https://github.com/srnag)
+* [@tonipesic](https://github.com/tonipesic)
+
